@@ -1,4 +1,4 @@
-# Football_Game
+# Football_Scoreboard
 Automated football game scoreboard based on OOP concepts and was implemented in Netbeans using java.
 
 Once the game started, the score board indicates
